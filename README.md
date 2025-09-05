@@ -1,7 +1,7 @@
 # Hi 👋, I'm Archita Sarkar  
-
+# she/her
 🎓 3rd-year **B.Tech CSE student** | 💻 Aspiring **Software Development Engineer**  
-🌱 Learning **Backend Development**, **DSA**, and **System Design**  
+🌱 Learning **Backend Development**, **DSA** 
 ✨ Passionate about building **full-stack projects** and solving real-world problems  
 
 ---
